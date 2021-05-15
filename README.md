@@ -4,6 +4,8 @@
 
 The client code can be found in the `client` folder and the server code can be found in the `server` folder.
 
+
+
 ### Prerequisites
 
 :writing_hand: What things you need to install the software and how to install them
